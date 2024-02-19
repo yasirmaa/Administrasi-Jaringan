@@ -1,4 +1,4 @@
-# Workshop Administrasi Jaringan 🛰️
+# Instalasi Debian di VM VirtualBox 🛰️
 
     Nama		: Yasir Maarif
     NRP		: 3122600013
@@ -7,5 +7,3 @@
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
 
 #
-
-Repository tugas mata kuliah Workshop Administrasi Jaringan

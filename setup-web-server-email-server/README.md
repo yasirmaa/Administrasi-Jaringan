@@ -356,7 +356,9 @@
    systemctl restart dovecot
    ```
 
-### FINAL CHECK untuk semua SERVICES :
+#
+
+## FINAL CHECK untuk semua SERVICES :
 
 Akan terlihat hasilnyaseperti dibawah, dengan status Server (LISTEN) : MariaDB(MySQL), IMAP, POP3, DNS(domain), IMAPS, POP3S, SSH, Postﬁx (SMTP)
 
@@ -368,4 +370,12 @@ Melakukan Cek terhadap Layanan Posﬁx
 telnet mail.kelompok10.local 25
 ```
 
-![mail cek](assets/telnet.png)
+![mail cek](assets/cek-telnet.png)
+
+Mengirim email ke kelompok lain
+
+```bash
+telnet mail.kelompok10.local 25
+```
+
+![mail cek](assets/cek-telnet.png)
